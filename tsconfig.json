@@ -21,7 +21,7 @@
     "strictPropertyInitialization": true,
     "noImplicitThis": true,
     "alwaysStrict": true,
-    suppressImplicitAnyIndexErrors: true,
+    "suppressImplicitAnyIndexErrors": true,
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true
